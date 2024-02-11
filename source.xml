@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<update version="0.0.1">
+			<file name="sources.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/core/monster-manual/source.xml" />
+		</update>
+	</info>
+	<element name="Yvette Homebrew" type="Source" source="Core" id="ID_YH_SOURCE">
+		<description>
+			yee haw
+		</description>
+		<setters>
+			<set name="abbreviation">YH</set>
+			<set name="image">https://media.dnd.wizards.com/styles/product_tabletop_left/public/images/product/DnD_MonsterManual.png</set>
+			<set name="errata">http://media.wizards.com/2018/dnd/downloads/DMG-Errata.pdf</set>
+			<set name="author" abbreviation="YS" url="http://dnd.wizards.com">Yvette Shackles</set>
+			<set name="official">true</set>
+			<set name="core">true</set>
+			<set name="release">20551212</set>
+		</setters>
+	</element>
+</elements>
